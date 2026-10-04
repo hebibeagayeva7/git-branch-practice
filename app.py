@@ -1,3 +1,3 @@
 name = "Student"
 print("Git practice:", name)
-print("Python script updated!")
+print("python script updated!")
